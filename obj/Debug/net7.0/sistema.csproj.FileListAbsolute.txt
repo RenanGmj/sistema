@@ -1,0 +1,14 @@
+C:\Users\renan gomes\Documents\GitHub\sistema\bin\Debug\net7.0\sistema.exe
+C:\Users\renan gomes\Documents\GitHub\sistema\bin\Debug\net7.0\sistema.deps.json
+C:\Users\renan gomes\Documents\GitHub\sistema\bin\Debug\net7.0\sistema.runtimeconfig.json
+C:\Users\renan gomes\Documents\GitHub\sistema\bin\Debug\net7.0\sistema.dll
+C:\Users\renan gomes\Documents\GitHub\sistema\bin\Debug\net7.0\sistema.pdb
+C:\Users\renan gomes\Documents\GitHub\sistema\obj\Debug\net7.0\sistema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan gomes\Documents\GitHub\sistema\obj\Debug\net7.0\sistema.AssemblyInfoInputs.cache
+C:\Users\renan gomes\Documents\GitHub\sistema\obj\Debug\net7.0\sistema.AssemblyInfo.cs
+C:\Users\renan gomes\Documents\GitHub\sistema\obj\Debug\net7.0\sistema.csproj.CoreCompileInputs.cache
+C:\Users\renan gomes\Documents\GitHub\sistema\obj\Debug\net7.0\sistema.dll
+C:\Users\renan gomes\Documents\GitHub\sistema\obj\Debug\net7.0\refint\sistema.dll
+C:\Users\renan gomes\Documents\GitHub\sistema\obj\Debug\net7.0\sistema.pdb
+C:\Users\renan gomes\Documents\GitHub\sistema\obj\Debug\net7.0\sistema.genruntimeconfig.cache
+C:\Users\renan gomes\Documents\GitHub\sistema\obj\Debug\net7.0\ref\sistema.dll
