@@ -25,19 +25,21 @@ class Program{
         endPJ.EnderecoComercial = false;
 
         PessoaJuridica PJ = new PessoaJuridica();
-        PJ.Nome = "ze da manga";
+        PJ.Nome = "josé";
         PJ.Cnpj = "12547896310001";
-        PJ.RazaoSocial = "bar do ze ds manga";
+        PJ.RazaoSocial = "bar do ze";
         PJ.Rendimento =5002;
 
-        
+        Console.WriteLine($"{PJ.PagarImposto(PJ.Rendimento)},00");
+
+
         if(PJ.ValidarCnpj(PJ.Cnpj)){
-            Console.WriteLine("CNPJ VALIDO zé da manga");
+            Console.WriteLine("CNPJ VALIDO ");
         }else{
             Console.WriteLine("CNPJ INVALIDO");
         }
 
-        Console.WriteLine(PJ.Cnpj);
+        
         
 
 

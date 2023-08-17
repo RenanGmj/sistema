@@ -16,7 +16,7 @@ namespace sistema.Classes
         {
             if(rendimento <= 5000){
                 return 0;
-            }else if(rendimento >= 5001 && rendimento <= 10000 ){
+            }else if(rendimento >= 1500 && rendimento <= 5000 ){
 
                 return rendimento * 03;
 

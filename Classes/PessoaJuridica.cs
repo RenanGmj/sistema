@@ -14,15 +14,15 @@ namespace sistema.Classes
 
         public override double PagarImposto(float rendimento)
         {
-            if(rendimento <= 2000){
+            if(rendimento <= 5000){
 
-                return 0;
+                return rendimento * .03;
 
-            }else if(rendimento >=2001 && rendimento <= 5000){
+            }else if(rendimento >5000 && rendimento <= 10000){
 
-                return rendimento * 02;
+                return rendimento * .08;
             }else{
-                return rendimento * 04;
+                return rendimento * .001;
             }
         
         }
